@@ -45,6 +45,15 @@ a:hover.logo-text
 		color: #15a2b8;
 		text-decoration: none;
 	}
+.my-cart-icon-affix {
+    position:relative;
+    z-index: 999;
+  }
+ .badge-notify{
+    background:red;
+    position:relative;
+   
+  }
  /*banner css*/
 
  div.carousel-caption
@@ -84,7 +93,7 @@ ont-size: 2em;
 .tag{
 	color: #000;
 }
-}
+
 /*product slider*/
 .product-grid{
 margin-bottom: 30px;
